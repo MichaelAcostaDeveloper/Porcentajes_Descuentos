@@ -98,7 +98,7 @@ body{
     border: 1px solid var(--white);
     border-radius: 8px;
     height: 16px;
-        font-size: var(--sm);
+    font-size: var(--sm);
     padding: 4px;
     place-items: center;
     align-items: center;
