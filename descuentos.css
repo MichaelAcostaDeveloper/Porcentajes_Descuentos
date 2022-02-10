@@ -71,7 +71,6 @@ body{
 .head_container .titles img{
     width: 24px;
 }
-
 .form_container form{
     display: flex;
     flex-direction: column;
@@ -80,19 +79,15 @@ body{
     border: 1px solid var(--white);
     border-radius: 16px;
     background: var(--blue-dark);
-
 }
 .form_container p{
     font-size: var(--md);
 }
-
 .form_container form label{
     font-size: var(--sm);
     margin-bottom: 8px;
     color: var(--white);
-
 }
-
 .form_container form input{
     background-color: var(--text-input-field);
     border: 1px solid var(--white);
